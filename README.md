@@ -1,10 +1,10 @@
 ## Steps to run the application:
-# Option 1 - Visual Studio:
+### Option 1 - Visual Studio:
 1. Clone the repository.
 2. Run the Solution file: /TeraImageViewer/TeraImageViewer.sln
 3. Build and press F5 to run the app.
 
-# Option 2 - Terminal:
+### Option 2 - Terminal:
 1. Clone the repository.
 2. Run:
 	cd TeraImageViewer
