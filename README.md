@@ -7,9 +7,9 @@
 ### Option 2 - Terminal:
 1. Clone the repository.
 2. Run:
-	cd TeraImageViewer
-	dotnet build
-	dotnet run
+cd TeraImageViewer
+dotnet build
+dotnet run
 
 
 ## Approach & Architecture:
